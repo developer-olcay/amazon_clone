@@ -8,4 +8,4 @@ This project is a clone of the Amazon website. It was created using HTML and CSS
 # Gif
 
 ![Uploading Amazon_Clone-GoogleChrome2024-11-0314-11-50-ezgif.com-video-to-gif-converter.gif…](assets/amazon_clone-demo.gif)
-)
+
