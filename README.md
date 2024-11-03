@@ -6,6 +6,4 @@ This project is a clone of the Amazon website. It was created using HTML and CSS
 * Optimized for different screen sizes
 * Modern and elegant user interface
 # Gif
-
-![Uploading Amazon_Clone-GoogleChrome2024-11-0314-11-50-ezgif.com-video-to-gif-converter.gif…]([https://github.com/user-attachments/assets/amazon_clone.git)
-
+![Amazon_Clone-GoogleChrome2024-11-0314-11-50-ezgif com-crop](https://github.com/user-attachments/assets/a8a7e509-d343-4a4e-885e-78cc48317feb)
